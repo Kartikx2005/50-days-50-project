@@ -1,4 +1,4 @@
 Day-1 -> Expanding Cards <br>
-Day-2 -> Progress Bar
-Day-3 -> Rotating Navbar 
-Day-4 -> Hidden Search
+Day-2 -> Progress Bar <br>
+Day-3 -> Rotating Navbar <br>
+Day-4 -> Hidden Search <br>
